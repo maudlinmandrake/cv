@@ -1,0 +1,24 @@
+body {
+
+  background-color: #f4f4f4;
+  font-family: Lato;
+}
+
+hr {
+
+  height: 0px;
+  width: 8%;
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 5px;
+}
+
+h1 {
+
+  color: #0a97b0;
+
+}
+
+h3 {
+  color: #f54291;
+}
