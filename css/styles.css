@@ -1,7 +1,9 @@
+/* ================== TAG SELECTORS ================== */
+
 body {
 
-  background-color: #f4f4f4;
-  font-family: Lato;
+  background-color: #faf2f2;
+  font-family: Arial;
 }
 
 hr {
@@ -9,16 +11,22 @@ hr {
   height: 0px;
   width: 8%;
   border-style: dotted none none none;
-  border-color: grey;
+  border-color: #f3e1e1;
   border-width: 5px;
 }
 
 h1 {
 
-  color: #0a97b0;
+  color: #7d5a5a;
 
 }
 
 h3 {
-  color: #f54291;
+  color: #f1d1d1;
+}
+
+/* ================== CLASS SELECTORS ================== */
+
+.circular {
+  border-radius: 100%;
 }
